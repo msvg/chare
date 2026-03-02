@@ -4,13 +4,13 @@
 提供回测方法
 
 ## 代码
-![代码 1](img/代码 1.png)
+![代码 1](https://github.com/msvg/chare/blob/main/img/code1.png)
 
-## 策略1
-![策略 1](img/策略 1.png)
+## 策略 1
+![策略 1](https://github.com/msvg/chare/blob/main/img/strategy1.png)
 
-## 策略2
-![策略 2](img/策略 2.png)
+## 策略 2
+![策略 2](https://github.com/msvg/chare/blob/main/img/strategy2.png)
 
 ## 免费策略-可以自己试验
 送大家一个策略，可以作为思路探索
